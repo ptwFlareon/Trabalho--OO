@@ -1,0 +1,494 @@
+[01-Nov-2016 04:10:41 Europe/Paris] PHP Notice:  Undefined index: usuarioObj in C:\wamp\www\mvc-php\gui\layoutTOpo.php on line 21
+[01-Nov-2016 04:10:41 Europe/Paris] PHP Stack trace:
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\mvc-php\public\index.php:0
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   2. TApp->executar() C:\wamp\www\mvc-php\public\index.php:37
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   3. ControleUsuario->listaDeUsuario() C:\wamp\www\mvc-php\libs\TApp.php:65
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   4. TGui->renderizar() C:\wamp\www\mvc-php\to\ControleUsuario.php:15
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   5. include_once() C:\wamp\www\mvc-php\libs\TGui.php:19
+[01-Nov-2016 04:10:41 Europe/Paris] PHP Notice:  Undefined variable: _SESSION in C:\wamp\www\mvc-php\gui\layoutTOpo.php on line 21
+[01-Nov-2016 04:10:41 Europe/Paris] PHP Stack trace:
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\mvc-php\public\index.php:0
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   2. TApp->executar() C:\wamp\www\mvc-php\public\index.php:37
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   3. Login->autenticar() C:\wamp\www\mvc-php\libs\TApp.php:63
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   4. TGui->renderizar() C:\wamp\www\mvc-php\to\Login.php:18
+[01-Nov-2016 04:10:41 Europe/Paris] PHP   5. include_once() C:\wamp\www\mvc-php\libs\TGui.php:19
+[01-Nov-2016 04:11:43 Europe/Paris] PHP Notice:  Undefined index: usuarioObj in C:\wamp\www\mvc-php\gui\layoutTOpo.php on line 21
+[01-Nov-2016 04:11:43 Europe/Paris] PHP Stack trace:
+[01-Nov-2016 04:11:43 Europe/Paris] PHP   1. {main}() C:\wamp\www\mvc-php\public\index.php:0
+[01-Nov-2016 04:11:43 Europe/Paris] PHP   2. TApp->executar() C:\wamp\www\mvc-php\public\index.php:37
+[01-Nov-2016 04:11:43 Europe/Paris] PHP   3. Login->autenticar() C:\wamp\www\mvc-php\libs\TApp.php:63
+[01-Nov-2016 04:11:43 Europe/Paris] PHP   4. TGui->renderizar() C:\wamp\www\mvc-php\to\Login.php:18
+[01-Nov-2016 04:11:43 Europe/Paris] PHP   5. include_once() C:\wamp\www\mvc-php\libs\TGui.php:19
+[01-Nov-2016 04:11:58 Europe/Paris] PHP Notice:  Undefined index: usuarioObj in C:\wamp\www\mvc-php\gui\layoutTOpo.php on line 19
+[01-Nov-2016 04:11:58 Europe/Paris] PHP Stack trace:
+[01-Nov-2016 04:11:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\mvc-php\public\index.php:0
+[01-Nov-2016 04:11:58 Europe/Paris] PHP   2. TApp->executar() C:\wamp\www\mvc-php\public\index.php:37
+[01-Nov-2016 04:11:58 Europe/Paris] PHP   3. Login->autenticar() C:\wamp\www\mvc-php\libs\TApp.php:63
+[01-Nov-2016 04:11:58 Europe/Paris] PHP   4. TGui->renderizar() C:\wamp\www\mvc-php\to\Login.php:18
+[01-Nov-2016 04:11:58 Europe/Paris] PHP   5. include_once() C:\wamp\www\mvc-php\libs\TGui.php:19
+[17-Oct-2018 01:21:30 UTC] PHP Notice:  Undefined variable: thumbPath in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 52
+[17-Oct-2018 01:21:30 UTC] PHP Stack trace:
+[17-Oct-2018 01:21:30 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:21:30 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:21:30 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:21:30 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:21:30 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:21:30 UTC] PHP Notice:  Undefined variable: thumbPath in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 57
+[17-Oct-2018 01:21:30 UTC] PHP Stack trace:
+[17-Oct-2018 01:21:30 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:21:30 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:21:30 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:21:30 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:21:30 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:21:30 UTC] PHP Notice:  Undefined variable: thumbPath in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 52
+[17-Oct-2018 01:21:30 UTC] PHP Stack trace:
+[17-Oct-2018 01:21:30 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:21:30 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:21:30 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:21:30 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:21:31 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:21:31 UTC] PHP Notice:  Undefined variable: thumbPath in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 57
+[17-Oct-2018 01:21:31 UTC] PHP Stack trace:
+[17-Oct-2018 01:21:31 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:21:31 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:21:31 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:21:31 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:21:31 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:31:01 UTC] PHP Fatal error:  Call to undefined method Empresa::getLogin() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 12
+[17-Oct-2018 01:31:01 UTC] PHP Stack trace:
+[17-Oct-2018 01:31:01 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:31:01 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:31:01 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:31:01 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:31:01 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:31:50 UTC] PHP Notice:  Undefined variable: status in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 24
+[17-Oct-2018 01:31:50 UTC] PHP Stack trace:
+[17-Oct-2018 01:31:50 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:31:50 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:31:50 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:31:50 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:31:50 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:31:50 UTC] PHP Notice:  Undefined variable: status in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 29
+[17-Oct-2018 01:31:50 UTC] PHP Stack trace:
+[17-Oct-2018 01:31:50 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:31:50 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:31:50 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:31:50 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:31:50 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:33:01 UTC] PHP Notice:  Undefined variable: status in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 24
+[17-Oct-2018 01:33:01 UTC] PHP Stack trace:
+[17-Oct-2018 01:33:01 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:33:01 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:33:01 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:33:01 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:33:01 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Oct-2018 01:33:01 UTC] PHP Notice:  Undefined variable: status in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioEmpresa.php on line 29
+[17-Oct-2018 01:33:01 UTC] PHP Stack trace:
+[17-Oct-2018 01:33:01 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Oct-2018 01:33:01 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Oct-2018 01:33:01 UTC] PHP   3. ControleEmpresa->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Oct-2018 01:33:01 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:26
+[17-Oct-2018 01:33:01 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:06:22 UTC] PHP Fatal error:  Call to undefined method Empresa::getThumbnail_path() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeEmpresas.php on line 25
+[24-Oct-2018 00:06:22 UTC] PHP Stack trace:
+[24-Oct-2018 00:06:22 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:06:22 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:06:22 UTC] PHP   3. ControleEmpresa->listaDeEmpresa() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:06:22 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php:10
+[24-Oct-2018 00:06:22 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[24-Oct-2018 00:07:35 UTC] PHP Notice:  Undefined variable: e in D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 18
+[24-Oct-2018 00:07:35 UTC] PHP Stack trace:
+[24-Oct-2018 00:07:35 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:07:35 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:07:36 UTC] PHP   3. ControleEmpresa->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[24-Oct-2018 00:07:43 UTC] PHP Notice:  Undefined variable: e in D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleEmpresa.php on line 18
+[24-Oct-2018 00:07:43 UTC] PHP Stack trace:
+[24-Oct-2018 00:07:43 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[24-Oct-2018 00:07:43 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[24-Oct-2018 00:07:43 UTC] PHP   3. ControleEmpresa->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[31-Oct-2018 01:25:53 UTC] PHP Fatal error:  Call to a member function getId() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioUsuario.php on line 56
+[31-Oct-2018 01:25:53 UTC] PHP Stack trace:
+[31-Oct-2018 01:25:53 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[31-Oct-2018 01:25:53 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[31-Oct-2018 01:25:53 UTC] PHP   3. ControleUsuario->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[31-Oct-2018 01:25:53 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleUsuario.php:25
+[31-Oct-2018 01:25:53 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[31-Oct-2018 01:26:53 UTC] PHP Fatal error:  Call to a member function getId() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioUsuario.php on line 56
+[31-Oct-2018 01:26:53 UTC] PHP Stack trace:
+[31-Oct-2018 01:26:53 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[31-Oct-2018 01:26:53 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[31-Oct-2018 01:26:53 UTC] PHP   3. ControleUsuario->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[31-Oct-2018 01:26:53 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleUsuario.php:25
+[31-Oct-2018 01:26:53 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[31-Oct-2018 01:26:54 UTC] PHP Fatal error:  Call to a member function getId() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioUsuario.php on line 56
+[31-Oct-2018 01:26:54 UTC] PHP Stack trace:
+[31-Oct-2018 01:26:54 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[31-Oct-2018 01:26:54 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[31-Oct-2018 01:26:54 UTC] PHP   3. ControleUsuario->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[31-Oct-2018 01:26:54 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleUsuario.php:25
+[31-Oct-2018 01:26:54 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[31-Oct-2018 01:26:55 UTC] PHP Fatal error:  Call to a member function getId() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioUsuario.php on line 56
+[31-Oct-2018 01:26:55 UTC] PHP Stack trace:
+[31-Oct-2018 01:26:55 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[31-Oct-2018 01:26:55 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[31-Oct-2018 01:26:55 UTC] PHP   3. ControleUsuario->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[31-Oct-2018 01:26:55 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleUsuario.php:25
+[31-Oct-2018 01:26:55 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[31-Oct-2018 01:26:55 UTC] PHP Fatal error:  Call to a member function getId() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioUsuario.php on line 56
+[31-Oct-2018 01:26:55 UTC] PHP Stack trace:
+[31-Oct-2018 01:26:55 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[31-Oct-2018 01:26:55 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[31-Oct-2018 01:26:55 UTC] PHP   3. ControleUsuario->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[31-Oct-2018 01:26:55 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleUsuario.php:25
+[31-Oct-2018 01:26:55 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 01:39:09 UTC] PHP Fatal error:  Using $this when not in object context in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeCategoria.php on line 16
+[16-Nov-2018 01:39:09 UTC] PHP Stack trace:
+[16-Nov-2018 01:39:09 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 01:39:09 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 01:39:09 UTC] PHP   3. class_exists() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[16-Nov-2018 01:39:09 UTC] PHP   4. __autoload() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:52
+[16-Nov-2018 01:39:09 UTC] PHP   5. require_once() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:26
+[16-Nov-2018 01:51:41 UTC] PHP Fatal error:  Call to undefined method Categoria::setSituacao() in D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php on line 45
+[16-Nov-2018 01:51:41 UTC] PHP Stack trace:
+[16-Nov-2018 01:51:41 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 01:51:41 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 01:51:41 UTC] PHP   3. ControleCategoria->salvar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 01:56:59 UTC] PHP Fatal error:  Call to undefined method Categoria::getNome() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 11
+[16-Nov-2018 01:56:59 UTC] PHP Stack trace:
+[16-Nov-2018 01:56:59 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 01:56:59 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 01:56:59 UTC] PHP   3. ControleCategoria->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 01:56:59 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:26
+[16-Nov-2018 01:56:59 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 01:59:35 UTC] PHP Fatal error:  Call to a member function getStatus() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[16-Nov-2018 01:59:35 UTC] PHP Stack trace:
+[16-Nov-2018 01:59:35 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 01:59:35 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 01:59:35 UTC] PHP   3. ControleCategoria->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 01:59:35 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:26
+[16-Nov-2018 01:59:35 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 02:00:18 UTC] PHP Fatal error:  Call to a member function getStatus() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[16-Nov-2018 02:00:18 UTC] PHP Stack trace:
+[16-Nov-2018 02:00:18 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 02:00:18 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 02:00:18 UTC] PHP   3. ControleCategoria->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 02:00:18 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:26
+[16-Nov-2018 02:00:18 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 02:01:18 UTC] PHP Fatal error:  Call to a member function getStatus() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[16-Nov-2018 02:01:18 UTC] PHP Stack trace:
+[16-Nov-2018 02:01:18 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 02:01:18 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 02:01:18 UTC] PHP   3. ControleCategoria->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 02:01:18 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:26
+[16-Nov-2018 02:01:18 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 02:01:23 UTC] PHP Fatal error:  Call to a member function getStatus() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[16-Nov-2018 02:01:23 UTC] PHP Stack trace:
+[16-Nov-2018 02:01:23 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 02:01:23 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 02:01:23 UTC] PHP   3. ControleCategoria->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 02:01:23 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:26
+[16-Nov-2018 02:01:23 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 02:03:20 UTC] PHP Fatal error:  Call to a member function getStatus() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioCategoria.php on line 12
+[16-Nov-2018 02:03:20 UTC] PHP Stack trace:
+[16-Nov-2018 02:03:20 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 02:03:20 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 02:03:20 UTC] PHP   3. ControleCategoria->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 02:03:20 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleCategoria.php:26
+[16-Nov-2018 02:03:20 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 02:57:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 02:57:35 UTC] PHP Stack trace:
+[16-Nov-2018 02:57:35 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 02:57:35 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 02:57:35 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 02:57:35 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 02:57:35 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 02:57:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 02:57:50 UTC] PHP Stack trace:
+[16-Nov-2018 02:57:50 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 02:57:50 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 02:57:50 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 02:57:50 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 02:57:50 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:00:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:00:39 UTC] PHP Stack trace:
+[16-Nov-2018 03:00:39 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:00:39 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:00:39 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:00:39 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:00:39 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:02:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:02:49 UTC] PHP Stack trace:
+[16-Nov-2018 03:02:49 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:02:49 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:02:49 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:02:49 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:02:49 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:03:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:03:14 UTC] PHP Stack trace:
+[16-Nov-2018 03:03:14 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:03:14 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:03:14 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:03:14 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:03:14 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:03:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:03:31 UTC] PHP Stack trace:
+[16-Nov-2018 03:03:31 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:03:31 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:03:31 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:03:31 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:03:31 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:05:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:05:01 UTC] PHP Stack trace:
+[16-Nov-2018 03:05:01 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:05:01 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:05:01 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:05:01 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:05:01 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:11:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:11:30 UTC] PHP Stack trace:
+[16-Nov-2018 03:11:30 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:11:30 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:11:30 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:11:30 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:11:30 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:13:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:13:20 UTC] PHP Stack trace:
+[16-Nov-2018 03:13:20 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:13:20 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:13:20 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:13:20 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:13:20 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:13:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:13:59 UTC] PHP Stack trace:
+[16-Nov-2018 03:13:59 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:13:59 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:13:59 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:13:59 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:13:59 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:14:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:14:07 UTC] PHP Stack trace:
+[16-Nov-2018 03:14:07 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:14:07 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:14:07 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:14:07 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:14:07 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:17:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:17:15 UTC] PHP Stack trace:
+[16-Nov-2018 03:17:15 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:17:15 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:17:15 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:17:15 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:17:15 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:18:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:18:24 UTC] PHP Stack trace:
+[16-Nov-2018 03:18:24 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:18:24 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:18:24 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:18:24 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:18:24 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:19:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:19:59 UTC] PHP Stack trace:
+[16-Nov-2018 03:19:59 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:19:59 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:19:59 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:19:59 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:19:59 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:23:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:23:39 UTC] PHP Stack trace:
+[16-Nov-2018 03:23:39 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:23:39 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:23:39 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:23:39 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:23:39 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[16-Nov-2018 03:28:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[16-Nov-2018 03:28:46 UTC] PHP Stack trace:
+[16-Nov-2018 03:28:46 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[16-Nov-2018 03:28:46 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[16-Nov-2018 03:28:46 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[16-Nov-2018 03:28:46 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[16-Nov-2018 03:28:46 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:11:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 44
+[17-Nov-2018 17:11:29 UTC] PHP Stack trace:
+[17-Nov-2018 17:11:29 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:11:29 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:11:29 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:11:29 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[17-Nov-2018 17:11:29 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:27:20 UTC] PHP Fatal error:  Call to a member function getCategoria() on boolean in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 49
+[17-Nov-2018 17:27:20 UTC] PHP Stack trace:
+[17-Nov-2018 17:27:20 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:27:20 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:27:20 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:27:20 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[17-Nov-2018 17:27:20 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:30:20 UTC] PHP Fatal error:  Class 'Produtos' not found in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 49
+[17-Nov-2018 17:30:21 UTC] PHP Stack trace:
+[17-Nov-2018 17:30:21 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:30:21 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:30:21 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:30:21 UTC] PHP   4. DaoProduto->listarTodos() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:7
+[17-Nov-2018 17:30:21 UTC] PHP   5. PDOStatement->fetchObject() D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php:49
+[17-Nov-2018 17:30:24 UTC] PHP Fatal error:  Class 'Produtos' not found in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 49
+[17-Nov-2018 17:30:24 UTC] PHP Stack trace:
+[17-Nov-2018 17:30:24 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:30:24 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:30:24 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:30:24 UTC] PHP   4. DaoProduto->listarTodos() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:7
+[17-Nov-2018 17:30:24 UTC] PHP   5. PDOStatement->fetchObject() D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php:49
+[17-Nov-2018 17:30:26 UTC] PHP Fatal error:  Class 'Produtos' not found in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 49
+[17-Nov-2018 17:30:26 UTC] PHP Stack trace:
+[17-Nov-2018 17:30:26 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:30:26 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:30:26 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:30:26 UTC] PHP   4. DaoProduto->listarTodos() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:7
+[17-Nov-2018 17:30:26 UTC] PHP   5. PDOStatement->fetchObject() D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php:49
+[17-Nov-2018 17:31:41 UTC] PHP Notice:  Undefined variable: cat in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:31:41 UTC] PHP Stack trace:
+[17-Nov-2018 17:31:41 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:31:41 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:31:41 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:31:41 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:31:41 UTC] PHP Fatal error:  Call to a member function listar() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:31:41 UTC] PHP Stack trace:
+[17-Nov-2018 17:31:41 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:31:41 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:31:41 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:31:41 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:33:21 UTC] PHP Notice:  Undefined variable: cat in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:33:21 UTC] PHP Stack trace:
+[17-Nov-2018 17:33:21 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:33:21 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:33:21 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:33:21 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:33:21 UTC] PHP Fatal error:  Call to a member function listar() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:33:21 UTC] PHP Stack trace:
+[17-Nov-2018 17:33:21 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:33:21 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:33:21 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:33:21 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:35:34 UTC] PHP Notice:  Undefined variable: cat in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:35:34 UTC] PHP Stack trace:
+[17-Nov-2018 17:35:34 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:35:34 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:35:34 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:35:34 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:35:34 UTC] PHP Fatal error:  Call to a member function listar() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:35:34 UTC] PHP Stack trace:
+[17-Nov-2018 17:35:34 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:35:34 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:35:34 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:35:34 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:35:41 UTC] PHP Notice:  Undefined variable: cat in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:35:41 UTC] PHP Stack trace:
+[17-Nov-2018 17:35:41 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:35:41 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:35:41 UTC] PHP   3. ControleProduto->excluir() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:35:41 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:83
+[17-Nov-2018 17:35:41 UTC] PHP Fatal error:  Call to a member function listar() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:35:41 UTC] PHP Stack trace:
+[17-Nov-2018 17:35:41 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:35:41 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:35:41 UTC] PHP   3. ControleProduto->excluir() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:35:41 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:83
+[17-Nov-2018 17:36:25 UTC] PHP Notice:  Undefined variable: produtos in D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php on line 9
+[17-Nov-2018 17:36:25 UTC] PHP Stack trace:
+[17-Nov-2018 17:36:25 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:36:25 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:36:25 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:36:29 UTC] PHP Notice:  Undefined variable: produtos in D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php on line 9
+[17-Nov-2018 17:36:29 UTC] PHP Stack trace:
+[17-Nov-2018 17:36:29 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:36:29 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:36:29 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:36:49 UTC] PHP Notice:  Undefined variable: cat in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:36:49 UTC] PHP Stack trace:
+[17-Nov-2018 17:36:49 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:36:49 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:36:49 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:36:49 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:36:49 UTC] PHP Fatal error:  Call to a member function listar() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:36:49 UTC] PHP Stack trace:
+[17-Nov-2018 17:36:49 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:36:49 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:36:49 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:36:49 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:37:08 UTC] PHP Notice:  Undefined variable: cat in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:37:08 UTC] PHP Stack trace:
+[17-Nov-2018 17:37:08 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:37:08 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:37:08 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:37:08 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:37:08 UTC] PHP Fatal error:  Call to a member function listar() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:37:08 UTC] PHP Stack trace:
+[17-Nov-2018 17:37:08 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:37:08 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:37:08 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:37:08 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:37:47 UTC] PHP Notice:  Undefined variable: cat in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:37:47 UTC] PHP Stack trace:
+[17-Nov-2018 17:37:47 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:37:47 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:37:47 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:37:47 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:37:47 UTC] PHP Fatal error:  Call to a member function listar() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\dao\DaoProduto.php on line 33
+[17-Nov-2018 17:37:47 UTC] PHP Stack trace:
+[17-Nov-2018 17:37:47 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:37:47 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:37:47 UTC] PHP   3. ControleProduto->editar() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:37:47 UTC] PHP   4. DaoProduto->listar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:16
+[17-Nov-2018 17:37:50 UTC] PHP Fatal error:  Call to a member function getCategoria() on boolean in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 49
+[17-Nov-2018 17:37:50 UTC] PHP Stack trace:
+[17-Nov-2018 17:37:50 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:37:50 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:37:50 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:37:50 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[17-Nov-2018 17:37:50 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:43:27 UTC] PHP Fatal error:  Call to a member function getCategoria() on boolean in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\formularioProduto.php on line 49
+[17-Nov-2018 17:43:27 UTC] PHP Stack trace:
+[17-Nov-2018 17:43:27 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:43:27 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:43:27 UTC] PHP   3. ControleProduto->novo() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:43:27 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:33
+[17-Nov-2018 17:43:27 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:45:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeProdutos.php on line 22
+[17-Nov-2018 17:45:03 UTC] PHP Stack trace:
+[17-Nov-2018 17:45:03 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:45:03 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:45:03 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:45:04 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:10
+[17-Nov-2018 17:45:04 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:45:26 UTC] PHP Notice:  Undefined variable: categoria in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeProdutos.php on line 23
+[17-Nov-2018 17:45:26 UTC] PHP Stack trace:
+[17-Nov-2018 17:45:26 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:45:26 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:45:26 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:45:26 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:10
+[17-Nov-2018 17:45:26 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:45:26 UTC] PHP Notice:  Undefined variable: categoria in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeProdutos.php on line 25
+[17-Nov-2018 17:45:26 UTC] PHP Stack trace:
+[17-Nov-2018 17:45:26 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:45:26 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:45:26 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:45:26 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:10
+[17-Nov-2018 17:45:26 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:45:26 UTC] PHP Fatal error:  Call to a member function getId() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeProdutos.php on line 25
+[17-Nov-2018 17:45:26 UTC] PHP Stack trace:
+[17-Nov-2018 17:45:26 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:45:26 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:45:26 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:45:26 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:10
+[17-Nov-2018 17:45:26 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:45:35 UTC] PHP Notice:  Undefined variable: categoria in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeProdutos.php on line 25
+[17-Nov-2018 17:45:35 UTC] PHP Stack trace:
+[17-Nov-2018 17:45:35 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:45:35 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:45:35 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:45:35 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:10
+[17-Nov-2018 17:45:35 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
+[17-Nov-2018 17:45:35 UTC] PHP Fatal error:  Call to a member function getId() on null in D:\GAMES\wamp64\www\video-aula-php-mvc\gui\listaDeProdutos.php on line 25
+[17-Nov-2018 17:45:35 UTC] PHP Stack trace:
+[17-Nov-2018 17:45:35 UTC] PHP   1. {main}() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:0
+[17-Nov-2018 17:45:35 UTC] PHP   2. TApp->executar() D:\GAMES\wamp64\www\video-aula-php-mvc\public\index.php:37
+[17-Nov-2018 17:45:35 UTC] PHP   3. ControleProduto->listaDeProduto() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TApp.php:63
+[17-Nov-2018 17:45:35 UTC] PHP   4. TGui->renderizar() D:\GAMES\wamp64\www\video-aula-php-mvc\to\ControleProduto.php:10
+[17-Nov-2018 17:45:35 UTC] PHP   5. include_once() D:\GAMES\wamp64\www\video-aula-php-mvc\libs\TGui.php:21
